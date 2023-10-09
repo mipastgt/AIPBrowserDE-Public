@@ -4,7 +4,9 @@
 
 Der *AIP Browser DE* ist ein spezieller Browser für die frei verfügbare Online-Version der AIP VFR von Deutschland. Er bietet mehr Bedienungskomfort und Funktionalität als die entsprechende Webseite. Weitere Informationen zur Installation und Funktion finden sich im [Handbuch](https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html).
 
-<img align="middle" src="docs/images/AIPBrowserDE-Screenshot.png" width="400">
+<p align="center">
+<img src="docs/images/AIPBrowserDE-Screenshot.png" width="400">
+</p>
 
 ## Fehlermeldungen, Anregungen und Diskussionen zum *AIPBrowserDE*
 
