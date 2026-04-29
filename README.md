@@ -1,5 +1,8 @@
 # AIP Browser DE
 
+>[!TIP]
+>Die neue Verson 1.3.14 des *AIP Browser DE* ist jetzt verfügbar.
+
 ## Übersicht
 
 Der *AIP Browser DE* ist ein spezieller Browser für die frei verfügbare Online-Version der AIP VFR von Deutschland. Er bietet mehr Bedienungskomfort und Funktionalität als die entsprechende Webseite. Weitere Informationen zur Installation und Funktion finden sich im [Handbuch](https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html).
