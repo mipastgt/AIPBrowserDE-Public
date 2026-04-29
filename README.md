@@ -2,6 +2,7 @@
 
 >[!TIP]
 >Die neue Verson 1.3.14 des *AIP Browser DE* ist jetzt verfügbar.
+>[Hier geht's zur Installation](https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html#_installation)
 
 ## Übersicht
 
